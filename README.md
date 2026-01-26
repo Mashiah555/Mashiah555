@@ -1,4 +1,4 @@
-#👋 HI, I'm Yuval Mashiah
+# 👋 HI, I'm Yuval Mashiah
 
 #### A third year BA student of computer science at JCT, and a passionate full-stack developer.
 
