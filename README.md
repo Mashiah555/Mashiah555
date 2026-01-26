@@ -1,13 +1,10 @@
-# Hi 👋, I'm Yuval Mashiah
+#👋 HI, I'm Yuval Mashiah
 
-### A third year BA student of computer science at JCT.
-### I am a passionate full-stack developer.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mashiah555&label=Profile views&color=0e75b6&style=flat" alt="Mashiah555" /> </p>
-
-- 📫 How to reach me **myyuval555@gmail.com**
+#### A third year BA student of computer science at JCT, and a passionate full-stack developer.
 
 - 👨‍💻 All of my projects are available at **[my 🌐website](https://mashiah555.github.io)**
+
+- 📫 Reach me at **[myyuval555@gmail.com](mailto:myyuval555@gmail.com)**
 
 - 📄 Know about my experiences through **[my resume`](https://mashiah555.github.io)**
 
