@@ -17,6 +17,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashiah555&layout=compact&theme=radical" alt="Top Languages" width="300" />
 
 <p align="left">
+  <strong>Languages</strong><br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank"> <img src="https://skillicons.dev/icons?i=cs" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank"> <img src="https://skillicons.dev/icons?i=py" width="40" height="40"/> </a>
@@ -27,20 +28,26 @@
 </p>
 
 <p align="left">
+  <strong>Frameworks & AI</strong><br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank"> <img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank"> <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank"> <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank"> <img src="https://cdn.simpleicons.org/ollama" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank"> <img src="https://cdn.simpleicons.org/huggingface" width="40" height="40"/> </a>
 </p>
 
 <p align="left">
+  <strong>Tools, Cloud & DB</strong><br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank"> <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank"> <img src="https://skillicons.dev/icons?i=azure" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank"> <img src="https://skillicons.dev/icons?i=gcp" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank"> <img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank"> <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank"> <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/> </a>
 </p>
 
