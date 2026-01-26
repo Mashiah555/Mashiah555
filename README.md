@@ -2,14 +2,14 @@
 
 #### A third year BA student of computer science at JCT, and a passionate full-stack developer.
 
-- 👨‍💻 All of my projects are available at **[my 🌐website](https://mashiah555.github.io)**
-- 📄 Know about my experiences through **[my resume`](https://mashiah555.github.io)**
+- 🌐 **[Visit my Portfolio Website](https://mashiah555.github.io)**
+- 📄 **[View my Resume](https://mashiah555.github.io)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Mashiah555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mashiah555" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yuval-mashiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuval-mashiah" height="30" width="40" /></a>
-<a href="mailto:myyuval555@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="myyuval555@gmail.com" height="30" width="40" /></a>
+<a href="mailto:myyuval555@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="myyuval555@gmail.com" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
