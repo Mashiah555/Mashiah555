@@ -5,7 +5,7 @@
 - 🌐 **[Visit my Portfolio Website](https://mashiah555.github.io)**
 - 📄 **[View my Resume](https://mashiah555.github.io)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Get In Touch:</h3>
 <p align="left">
   <a href="https://github.com/Mashiah555" target="blank"> <img src="https://skillicons.dev/icons?i=github" alt="Github: Mashiah555" width="40" height="40"/> </a>
   <a href="https://linkedin.com/in/yuval-mashiah" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn: yuval-mashiah" width="40" height="40"/> </a>
@@ -24,8 +24,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank"> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank"> <img src="https://skillicons.dev/icons?i=java" alt="Java" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank"> <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="35" height="35"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="JS" width="35" height="35"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/markdown" target="_blank"> <img src="https://skillicons.dev/icons?i=md" alt="MD" width="35" height="35"/> </a>
 </p>
