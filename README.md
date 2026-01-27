@@ -45,7 +45,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank"> <img src="https://skillicons.dev/icons?i=gcp" alt="Google Console" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="35" height="35"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/supabase" target="_blank"> <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank"> <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/windows" target="_blank"> <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="35" height="35"/> </a>
