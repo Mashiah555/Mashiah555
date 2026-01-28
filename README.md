@@ -37,6 +37,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank"> <img src="https://cdn.simpleicons.org/ollama" alt="Ollama" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank"> <img src="https://cdn.simpleicons.org/huggingface" alt="HuggingFace" width="35" height="35"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/n8n" target="_blank"> <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="35" height="35"/> </a>
 </p>
 
 <p align="left">
