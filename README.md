@@ -27,7 +27,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="JS" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="35" height="35"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank"> <img src="https://cdn.simpleicons.org/gnubash" alt="Bash" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/markdown" target="_blank"> <img src="https://skillicons.dev/icons?i=md" alt="MD" width="35" height="35"/> </a>
 </p>
 
