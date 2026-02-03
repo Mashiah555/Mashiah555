@@ -1,6 +1,6 @@
 # 👋 HI, I'm Yuval Mashiah
 
-#### A third year BA student of computer science at JCT, and a passionate full-stack developer.
+#### A third year B.Sc. student in Computer Science at JCT, and a passionate full-stack developer.
 
 - 🌐 **[Visit my Portfolio Website](https://mashiah555.github.io)**
 - 📄 **[View my Resume](https://mashiah555.github.io)**
