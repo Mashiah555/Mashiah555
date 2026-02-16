@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashiah555&layout=compact&theme=radical" alt="Top Languages" width="350" />
+<img align="right" src="./profile/top-langs.svg" alt="Top Languages" width="350" />
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank"> <img src="https://skillicons.dev/icons?i=py" alt="Python" width="35" height="35"/> </a>
