@@ -1,0 +1,22 @@
+name: Update Profile README Stats
+
+on:
+  schedule:
+    # Runs at 6AM UTC every day
+    - cron: "0 6 * * *"
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Stats
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate GitHub Profile Stats Card
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          # This tells the action to save the images in a folder named "profile-summary-card-output"
