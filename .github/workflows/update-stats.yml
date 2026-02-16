@@ -24,7 +24,7 @@ jobs:
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=radical&langs_count=8&hide=css
-          path: cards/top-langs.svg
+          path: profile/top-langs.svg
           token: ${{ secrets.PROFILE_TOKEN }}
 
       - name: Commit cards
