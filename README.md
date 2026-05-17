@@ -58,7 +58,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/visualstudio" target="_blank"> <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/idea" target="_blank"> <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/pycharm" target="_blank"> <img src="https://skillicons.dev/icons?i=pycharm" alt="Pycharm" width="35" height="35"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/eclipse" target="_blank"> <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/powershell" target="_blank"> <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/ubuntu" target="_blank"> <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="35" height="35"/> </a>
 </p>
