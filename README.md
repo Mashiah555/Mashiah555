@@ -27,13 +27,12 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="JS" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="35" height="35"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/markdown" target="_blank"> <img src="https://skillicons.dev/icons?i=md" alt="MD" width="35" height="35"/> </a>
 </p>
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank"> <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="35" height="35"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank"> <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank"> <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="35" height="35"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank"> <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank"> <img src="https://cdn.simpleicons.org/ollama" alt="Ollama" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank"> <img src="https://cdn.simpleicons.org/huggingface" alt="HuggingFace" width="35" height="35"/> </a>
@@ -46,11 +45,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank"> <img src="https://skillicons.dev/icons?i=gcp" alt="Google Console" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="35" height="35"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank"> <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/windows" target="_blank"> <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="35" height="35"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="35" height="35"/> </a>
 </p>
 
 <p align="left">
