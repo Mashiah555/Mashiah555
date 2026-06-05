@@ -3,7 +3,7 @@
 #### A third year B.Sc. student in Computer Science at JCT, and a passionate full-stack developer.
 
 - 🌐 **[Visit my Portfolio Website](https://mashiah555.github.io)**
-- 📄 **[View my Resume](https://mashiah555.github.io/?tab=experience#resume-section)**
+- 📄 **[View my Resume](https://mashiah555.github.io/?view=plain#resume-section)**
 
 <h3 align="left">Get In Touch:</h3>
 <p align="left">
