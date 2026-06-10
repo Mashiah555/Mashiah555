@@ -45,7 +45,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank"> <img src="https://skillicons.dev/icons?i=gcp" alt="Google Console" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="35" height="35"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/windows" target="_blank"> <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="35" height="35"/> </a>
 </p>
@@ -55,6 +54,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/visualstudio" target="_blank"> <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/idea" target="_blank"> <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/pycharm" target="_blank"> <img src="https://skillicons.dev/icons?i=pycharm" alt="Pycharm" width="35" height="35"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/powershell" target="_blank"> <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/ubuntu" target="_blank"> <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="35" height="35"/> </a>
 </p>
