@@ -20,10 +20,10 @@
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank"> <img src="https://skillicons.dev/icons?i=py" alt="Python" width="35" height="35"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank"> <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank"> <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank"> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank"> <img src="https://skillicons.dev/icons?i=java" alt="Java" width="35" height="35"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank"> <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="JS" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="35" height="35"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="35" height="35"/> </a>
